@@ -77,7 +77,7 @@
 
 .footer{
   display: flex;
-  justify-content: space-around;
+  justify-content:space-evenly;
 }
 .footer-item {
   border: 1px solid #fff;
